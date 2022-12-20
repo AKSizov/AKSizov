@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](/github-metrics.svg)
+<img align="center" src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+<img align="center" src="/metrics.plugin.habits.facts.svg" alt="More Metrics" width="400">
